@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fitness | My Octopress Blog]]></title>
+  <link href="http://badatcomputer.github.io/blog/categories/fitness/atom.xml" rel="self"/>
+  <link href="http://badatcomputer.github.io/"/>
+  <updated>2014-11-22T17:43:04-08:00</updated>
+  <id>http://badatcomputer.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Personal Goals]]></title>
+    <link href="http://badatcomputer.github.io/blog/2014/11/22/personal-goals/"/>
+    <updated>2014-11-22T17:00:37-08:00</updated>
+    <id>http://badatcomputer.github.io/blog/2014/11/22/personal-goals</id>
+    <content type="html"><![CDATA[<p>I feel like it is incredibly important to write down goals for the next year before the conclusion of the current year.  It helps me navigate the unstructured holiday time to know that I can start imposing structure once the season is over. I also feel like it important to make those goals as specific as possible and time bound them to reasonable, but agressive dates.</p>
+
+<p>I have had some challenges over the last year that have put me further back than I would have liked.  I am not terribly upset by this because I want fitness and specifically strength to be a life long pursuit. There will more than occasionally be times that I have setbacks and will still need to continue.  I have rebuilt most of my strength, but am by no means my strongest.</p>
+
+<p>I plan on using 6 datapoints to monitor my strength progress.  I choose the 4 traditional powerlifting lifts and 2 olympic movements to be these indicators</p>
+
+<p>I also hope to get a couple datapoint on energy system work.  Right now I think this will be 5k time an undetermined measure on the bike.</p>
+
+<h2>Current Lifts</h2>
+
+<p>Bench    - 275
+Press    - 155
+Squat    - 455
+DeadLift - 525</p>
+
+<hr />
+
+<p>Clean and Jerk - 275
+Snatch         - 225</p>
+
+<h2>Stated Goals</h2>
+
+<p>Bench    - 315 (Q2 2015) - 335 (Q4 2015)
+Press    - 175 (Q2 2015) - 185 (Q4 2015)
+Squat    - 475 (Q2 2015) - 500 (Q4 2015)
+DeadLift - 555 (Q2 2015) - 585 (Q4 2015)</p>
+
+<hr />
+
+<p>Clean and Jerk - 295 (Q2 2015) - 305 (Q4 2015)
+Snatch         - 245 (Q2 2015) - 255 (Q4 2015)</p>
+
+<p>As Stated the goals for Q2 will put me back at the strongest I have ever been, the later goals for the end of the year will put me on my way for my 3 year goal of totaling over 1500 in a powerlifting competition. Pressing has always been my weakest lifts and will require some additional work to get where I would like it.</p>
+
+<h2>Training Rubric</h2>
+
+<table>
+<thead>
+<tr>
+<th> Day           </th>
+<th style="text-align:left;"> AM            </th>
+<th style="text-align:left;"> PM               </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Monday        </td>
+<td style="text-align:left;"> :30 cardio    </td>
+<td style="text-align:left;"> Oly - Snatch     </td>
+</tr>
+<tr>
+<td> Tuesday       </td>
+<td style="text-align:left;">               </td>
+<td style="text-align:left;"> Pressing         </td>
+</tr>
+<tr>
+<td> Wednesday     </td>
+<td style="text-align:left;"> :30 cardio    </td>
+<td style="text-align:left;"> Oly - Clean      </td>
+</tr>
+<tr>
+<td> Thursday      </td>
+<td style="text-align:left;">               </td>
+<td style="text-align:left;"> Oly - Technique  </td>
+</tr>
+<tr>
+<td> Friday        </td>
+<td style="text-align:left;"> :30 cardio    </td>
+<td style="text-align:left;"> OFF              </td>
+</tr>
+<tr>
+<td> Saturday      </td>
+<td style="text-align:left;"> OLY - HEAVY   </td>
+<td style="text-align:left;"> OFF              </td>
+</tr>
+<tr>
+<td> Sunday        </td>
+<td style="text-align:left;"> Ruck          </td>
+<td style="text-align:left;"> OFF              </td>
+</tr>
+</tbody>
+</table>
+
+
+<hr />
+
+<p>I will share all of my workouts on Fitocracy</p>
+
+<p><a href="https://www.fitocracy.com/profile/badatcomputer/">https://www.fitocracy.com/profile/badatcomputer/</a></p>
+
+<h2>Stretch Goals</h2>
+
+<ul>
+<li>Get more familiar with IIFYM and actively work on body recomp</li>
+<li>Do 20 minutes of mobility work before/after every evening workout + Saturday</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fitness for the Rest of Us]]></title>
+    <link href="http://badatcomputer.github.io/blog/2014/11/22/fitness-for-the-rest-of-us/"/>
+    <updated>2014-11-22T16:32:13-08:00</updated>
+    <id>http://badatcomputer.github.io/blog/2014/11/22/fitness-for-the-rest-of-us</id>
+    <content type="html"><![CDATA[<h2>An Intro</h2>
+
+<p>Hi Everyone I&rsquo;m Daniel and I&rsquo;m a Software Engineer.</p>
+
+<p>Other than the most cliche way to open a blog, and sounding like the opening of an AA meeting it is important to know where we are starting.</p>
+
+<p>I have a job in the Bay Area in California where I try to help big companies try to understand how to make software and software engineers work at scale.</p>
+
+<p>I also happen to enjoy fitness. As you can immagine, this makes me something of a bit of a rarity in my field.</p>
+
+<h2>Mission Statement</h2>
+
+<p>My hope for this blog, and whatever else come from it, is to provide a Software Engineer&rsquo;s guide to fitness.</p>
+
+<h2>Goals and Objectives</h2>
+
+<p>I am going to try to write a piece 2-3 times a week.</p>
+
+<p>I am going focus on where my training is and how I am progressing against the goals I&rsquo;ve set.</p>
+
+<p>I am going to post recipes with the intent of making eating healthy suck less.</p>
+
+<p>I will also review products/suplements/services that I feel help me with my training and or work life balance.</p>
+]]></content>
+  </entry>
+  
+</feed>

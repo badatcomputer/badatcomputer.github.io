@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://badatcomputer.github.io/sitemap.xml 
